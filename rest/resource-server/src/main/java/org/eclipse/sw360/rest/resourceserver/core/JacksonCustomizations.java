@@ -459,7 +459,7 @@ public class JacksonCustomizations {
                 "mainLicenseIdsIterator",
                 "setBinaryDownloadurl",
                 "setBinaryDownloadurl",
-                "otherLicenseIds",
+                "otherLicenseIdsIterator",
                 "otherLicenseIdsSize",
                 "setOtherLicenseIds",
                 "setModifiedOn",
